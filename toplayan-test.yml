@@ -1,0 +1,12 @@
+
+
+toplayan:
+  message: "test uygulamama hoşgeldiniz"
+  contactDetails:
+    name: "test uzay ılıca"
+    email: "test uzay@gmail.com"
+  onCallSupport:
+    -05559999999
+    -05488456415
+build:
+  version: "85"

@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: "toplayan"
+  profiles:
+    active: "admin"
+
+toplayan:
+  message: "uygulamama hoşgeldiniz"
+  contactDetails:
+    name: "uzay ılıca"
+    email: "uzay@gmail.com"
+  onCallSupport:
+    -05559999999
+    -05488456415
+build:
+  version: "85"

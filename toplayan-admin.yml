@@ -1,0 +1,9 @@
+toplayan:
+  message: "admin uygulamama hoşgeldiniz"
+  contactDetails:
+    name: "admin uzay ılıca"
+    email: "admin uzay@gmail.com"
+  onCallSupport:
+    - 05559999999
+    - 05488456415
+
