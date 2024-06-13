@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: micro0
+
+degiskenler:
+  sayi: erg
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+        exclude: "*"
+  endpoint:
+    health:
+      probes:
+        enabled: true  # Enable all health probes
+  health:
+    livenessState:
+      enabled: true  # Enable liveness health check
+    readinessState:
+      enabled: true  # Enable readiness health check  
