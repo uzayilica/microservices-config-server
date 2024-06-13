@@ -1,6 +1,6 @@
 spring:
   application:
-    name: microservice1
+    name: micro0
 
 degiskenler:
   sayi: erg
