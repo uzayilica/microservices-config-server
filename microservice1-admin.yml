@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: microservice1
+
+degiskenler:
+  sayi: ydeescsscs
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+        exclude: "*"
