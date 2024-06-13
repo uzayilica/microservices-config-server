@@ -3,7 +3,7 @@ spring:
     name: micro0
 
 degiskenler:
-  sayi: erg
+  sayi: erg3r3
 
 management:
   endpoints:
