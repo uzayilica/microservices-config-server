@@ -3,7 +3,7 @@ spring:
     name: microservice1
 
 degiskenler:
-  sayi: ydeescsscs
+  sayi: erg
 
 management:
   endpoints:
